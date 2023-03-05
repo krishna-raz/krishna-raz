@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Javascript, Blockchain and Web 3.0**
 
-- 📝 I regularly write articles on [https://krishnadbg.blogspot.com/](https://krishnadbg.blogspot.com/)
+- 📝 I regularly write articles on [https://krishna-raz.github.io/krishna-raj/](https://krishna-raz.github.io/krishna-raj/)
 
 - 💬 Ask me about **C/C++**
 
